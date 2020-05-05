@@ -1,3 +1,3 @@
 # My First Project
 
-## by D. Strong
+## by Derrick Strong
