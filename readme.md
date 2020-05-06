@@ -1,3 +1,3 @@
 # My First Project
 
-## by Derrick Strong
+## by D. Strong (Full Stack Dev)
